@@ -130,4 +130,7 @@
 
 ![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab2/assets/134233917/b5e5a0c5-1983-43c3-be67-5730ba5792ca)
 
-6. 
+6. Nos vamos al Overview Wiki, luego selecionamos la documentacion del codigo y veremos las paginas ordenadas
+   
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab2/assets/134233917/1d317acf-bbe8-4090-9ddd-c5f8a99e2482)
+
