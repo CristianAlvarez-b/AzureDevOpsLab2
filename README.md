@@ -108,3 +108,26 @@
 8. Publicamos
 
 ![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab2/assets/134233917/4de5ed42-8be7-4dd7-b2ab-cd8bb8990ba8)
+
+## Task 3:
+1. Creamos un nuevo folder
+
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab2/assets/134233917/5edb22e3-d44c-417c-9d82-c3eddb75bfb6)
+
+2. Como nombre a la carpeta usamos "Upcoming-events" y el nombre del archivo January-events.md
+
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab2/assets/134233917/c0a51e34-46ca-4b28-8939-29bafd0b0493)
+
+3. Escribimos algun texto y hacemos commit
+
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab2/assets/134233917/648cd310-c0b8-4c4e-83e0-40668605f273)
+
+4. De la misma manera creamos otro archivo llamada February-events, le ponemos texto y hacemos commit
+
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab2/assets/134233917/c899f99a-bddb-4944-bdd9-553e318622e7)
+
+5. Creamos un nuevo archivo llamado .order para definir el orden de los archivos
+
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab2/assets/134233917/b5e5a0c5-1983-43c3-be67-5730ba5792ca)
+
+6. 
